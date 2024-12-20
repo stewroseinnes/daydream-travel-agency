@@ -1,0 +1,20 @@
+[
+    {
+        "type": "flight",
+        "from": "New York",
+        "to": "Paris",
+        "time": "10:00 AM"
+    },
+    {
+        "type": "hotel",
+        "name": "Eiffel Hotel",
+        "city": "Paris",
+        "nights": 3
+    },
+    {
+        "type": "activity",
+        "description": "Visit Eiffel Tower",
+        "city": "Paris",
+        "time": "3:00 PM"
+    }
+]
