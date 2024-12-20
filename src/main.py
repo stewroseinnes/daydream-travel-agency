@@ -1,5 +1,5 @@
 from itinerary_builder import build_itinerary
-from data_loader import load_sample_data
+from data_loader import load_data
 from utils import print_itinerary
 
 def main():
@@ -14,7 +14,8 @@ def main():
     Returns:
         None
     """
-    data = load_sample_data()
+    data = load_data() # Uses default sample file path
+    print(data)
     itinerary = build_itinerary(data)
     print("Generated Itinerary:")
     print_itinerary(itinerary)
