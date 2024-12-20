@@ -1,0 +1,2 @@
+# ignore all files under "not Sync to Git" folder and its subfolders
+not_Sync_to_Git/
