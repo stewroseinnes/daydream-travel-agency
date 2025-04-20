@@ -1,6 +1,7 @@
 def process_flight(flight):
     """
     Processes a flight event and returns a formatted string.
+    ghg
     
     Args:
         flight (dict): A dictionary containing flight details.
