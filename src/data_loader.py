@@ -5,7 +5,7 @@ def load_data(file_path=None):
     """
     Args:
         file_path (str): The path to the JSON file. Defaults to '../data/sample_itinerary.json'.
-
+        dsaff
     Returns:
         list of dict: A list of dictionaries representing the data in the file.
 
